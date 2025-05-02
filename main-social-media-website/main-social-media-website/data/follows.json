@@ -1,0 +1,63 @@
+{
+    "follows": [
+        {
+            "follower": "zaidnazar",
+            "following": "benrud"
+        },
+        {
+            "follower": "benrud",
+            "following": "zaidnazar"
+        }
+    ],
+    "notifications": [
+        {
+            "from_user": "zaidnazar",
+            "to_user": "benrud",
+            "type": "follow",
+            "time": 1746087407
+        },
+        {
+            "from_user": "zaidnazar",
+            "to_user": "benrud",
+            "type": "follow",
+            "time": 1746087424
+        },
+        {
+            "from_user": "zaidnazar",
+            "to_user": "benrud",
+            "type": "follow",
+            "time": 1746087436
+        },
+        {
+            "from_user": "zaidnazar",
+            "to_user": "zaidnazar",
+            "type": "like",
+            "post_id": 1746085982,
+            "time": 1746165244
+        },
+        {
+            "from_user": "benrud",
+            "to_user": "zaidnazar",
+            "type": "like",
+            "post_id": 1746085982,
+            "time": 1746165852
+        },
+        {
+            "from_user": "benrud",
+            "to_user": "zaidnazar",
+            "type": "follow",
+            "time": 1746165853
+        },
+        {
+            "from_user": "benrud",
+            "to_user": "zaidnazar",
+            "type": "comment",
+            "post_id": "1746085982",
+            "time": 1746165860
+        }
+    ],
+    "read_notifications": {
+        "zaidnazar": 1746167439,
+        "benrud": 1746165845
+    }
+}

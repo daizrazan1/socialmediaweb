@@ -1,0 +1,39 @@
+body {
+    background-color: #121212;
+}
+
+.navbar {
+    padding: 1rem 0;
+    margin-bottom: 2rem;
+}
+
+.nav-center {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: #1e1e1e !important;
+    border: 1px solid #333;
+}
+
+.card-img-top {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+
+.col-md-8 {
+    max-width: 500px;
+}
+
+.btn-outline-light {
+    border-color: #666;
+}
+
+.btn-outline-light:hover {
+    background-color: #333;
+    border-color: #888;
+}
